@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Clima-App</string>
+    <string name="iconUrl">https://developer.accuweather.com/sites/default/files/0" + dailyForecasts.getDay().getIcon() + "-s" + ".png</string>
+    <string name="iconUrl2">https://developer.accuweather.com/sites/default/files/" + dailyForecasts.getDay().getIcon() + "-s" + ".png</string>
+
+</resources>
